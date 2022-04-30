@@ -731,8 +731,9 @@ cite {
 }
 
 .text-imgs-cite2 {
-    font-size: large;
+    font-size: 20px;
     font-weight: lighter;
+    padding-bottom: 25px;
 }
 
 .med-width-whitespace {
