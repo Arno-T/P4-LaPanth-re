@@ -716,6 +716,11 @@ h3 {
     color: #333333!important;
 }
 
+.cite {
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+
 .text-imgs {
     font-size: x-large;
     font-weight: 500;
