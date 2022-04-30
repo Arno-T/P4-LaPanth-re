@@ -17,7 +17,6 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -677,7 +676,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 11px;
 }
 
 .tight-width-whitespace {
@@ -705,12 +704,12 @@ p {
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 22px;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 25px;
+    font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
