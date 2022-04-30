@@ -716,6 +716,20 @@ h3 {
     color: #333333!important;
 }
 
+.text-imgs {
+    font-size: x-large;
+    font-weight: 500;
+}
+
+.text-imgs-cite {
+    font-size: large;
+}
+
+.text-imgs-cite2 {
+    font-size: large;
+    font-weight: lighter;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
